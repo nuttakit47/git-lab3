@@ -1,4 +1,4 @@
 <?php
-    echo"gundum 1/100";
+    echo"gundum 1/1000";
    
 ?>
